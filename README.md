@@ -6,4 +6,4 @@ This file is the supplementary .mat files for the journal "Drone Audition: On Me
 Measurement_Grid.mat: The measurement grid of the experimental setup
 
 
-DRTF_Meausrements.mat: The processed IR measurements
+DRTF_Meausrements.mat: The processed IR measurements (https://zenodo.org/records/10907024)
